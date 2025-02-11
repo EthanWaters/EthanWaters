@@ -15,9 +15,3 @@ Research and development engineer focused on developing software systems and mac
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanWaters&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=EthanWaters&theme=onedark)
-
----
-⭐️ From [Ethan Waters](https://github.com/EthanWaters)
