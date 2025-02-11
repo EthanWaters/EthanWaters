@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Ethan Waters
-
 ## About Me
 Research and development engineer focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
 
