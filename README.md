@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ethan Waters
 
-<!--
-**EthanWaters/EthanWaters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Research and development engineer focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** [Python, R, JavaScript, C/C++]
+- **Frontend:** [React, HTML/CSS]
+- **Backend:** [.NET, FastAPI]
+- **Database:** [PostgreSQL, MySQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+- [Project 1]: Machine learning algorithms to detect disease in crops
+- [Project 2]: A progressive web app for farmers to monitor theiir crop health at large scales
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanWaters&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=EthanWaters&theme=onedark)
+
+---
+⭐️ From [YourGitHubUsername](https://github.com/EthanWaters)
