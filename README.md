@@ -4,7 +4,7 @@
 Research and development engineer focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
 
 ## 🔧 Technologies & Tools
-- **Languages:** [Python, R, JavaScript, C/C++]
+- **Languages:** [Python, R, JavaScript, C/C++, C#]
 - **Frontend:** [React, HTML/CSS]
 - **Backend:** [.NET, FastAPI]
 - **Database:** [PostgreSQL, MySQL]
@@ -20,4 +20,4 @@ Research and development engineer focused on developing software systems and mac
 ![Trophy](https://github-profile-trophy.vercel.app/?username=EthanWaters&theme=onedark)
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/EthanWaters)
+⭐️ From [Ethan Waters](https://github.com/EthanWaters)
