@@ -2,7 +2,7 @@
 Research and development engineer focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
 
 ## 🔧 Technologies & Tools
-- **Languages:** [Python, R, JavaScript, C/C++, C#]
+- **Languages:** [Python, R, C/C++, C#, MATLAB, JavaScript]
 - **Frontend:** [React, HTML/CSS]
 - **Backend:** [.NET, FastAPI]
 - **Database:** [PostgreSQL, MySQL]
