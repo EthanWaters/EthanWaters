@@ -1,5 +1,5 @@
 ## About Me
-Research and development engineer focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
+Data Scientist focused on developing software systems and machine learning algorithms to solve complex novel industry challenges.
 
 ## 🔧 Technologies & Tools
 - **Languages:** [Python, R, C/C++, C#, MATLAB, JavaScript]
